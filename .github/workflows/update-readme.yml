@@ -1,4 +1,4 @@
-name: Display Featured Repositories in README
+name: Update README with Featured Repositories
 
 on:
   schedule:
