@@ -23,4 +23,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
           topic: 'showcase'
-          format: 'card'
+          format: 'table'
+          title: 'Мои проекты'
+          max_repos: 4
+          show_description: true
+          show_language: true
+          show_stars: false
+          show_forks: false
+          show_topics: false
+          commit_message: 'docs: update featured projects showcase'
