@@ -75,23 +75,19 @@
 ## Моё дополнительное образование
 
 - **Студкемп по машинному обучению** | Яндекс.Образование & ФКН ВШЭ | Апрель 2024
-[Ссылка на сертификат](https://...)
+[Ссылка на сертификат](https://drive.google.com/file/d/19Tc_gsVMuIUujQvK8Xh7s_v3gifdOYvr/view?usp=sharing)
 - **Numpy для анализа данных** | Stepik | Сентябрь 2025
-[Ссылка на сертификат](https://...)
+[Ссылка на сертификат](https://drive.google.com/file/d/1f_52kUCIFEw38z3EZl34kncIJaSkaPUi/view?usp=sharing)
 - **Pandas для анализа данных** | Stepik | Сентябрь 2025
 [Ссылка на сертификат](https://...)
 - **Библиотека Seaborn. Статистическая визуализация данных в Python** | Stepik | Сентябрь 2025
 [Ссылка на сертификат](https://...)
 - **Интерактивный тренажёр по SQL** | Stepik | Декабрь 2023
-[Ссылка на сертификат](https://...)
+[Ссылка на сертификат](https://drive.google.com/file/d/1vNEgDyX94mpRxgntoeHJz-vuJEyYNLFT/view?usp=sharing)
 - **Введение в программирование на языке Python** | Сириус | Апрель 2020 - Май 2020
-[Ссылка на сертификат](https://...)
+[Ссылка на сертификат](https://drive.google.com/file/d/1tAoUvarRQA92DPbmN6r06fodEBxgN6Td/view?usp=sharing)
 - **Олимпиадная информатика** | ИТМО | Сентябрь 2020 - Февраль 2021
-[Ссылка на сертификат](https://...)
+[Ссылка на сертификат](https://drive.google.com/file/d/1wEqSKpZhSDBrQ2vD0CGReVSxMpwhCZaS/view?usp=sharing)
 - **Информатика и программирование** | ГБУ ДО Центр "Интеллект" | Январь 2019 - Декабрь 2020
-[Ссылка на сертификат](https://...)
-
-## Моя GitHub статистика
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azazzze1&show_icons=true&layout=compact)]( https://github.com/azazzze1)
+[Ссылка на сертификат](https://drive.google.com/file/d/1oRbfBPMK_XQFNxAcFf55Att7wLbkcVhk/view?usp=sharing)
 
