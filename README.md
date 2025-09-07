@@ -20,9 +20,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong></a></td>
+      <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></a></td>
       <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kaidux22/fake-reviews-detector" target="_blank"><strong>fake-reviews-detector</strong></a></td>
