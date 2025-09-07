@@ -15,7 +15,7 @@
 - ### 🧑‍💻 **[alexbibl](https://github.com/kaidux22/alexbibl)**
    ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-blue)
 
-
+   Определённое описание проекта	
 - ### 🧑‍💻 **[CompMath-AE](https://github.com/kaidux22/CompMath-AE)**
    ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
 
