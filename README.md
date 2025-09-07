@@ -1,5 +1,5 @@
 ## Прошичев Александр (Intern DS/ML Engineer)
-[![Follow on Gmail](https://img.shields.io/badge/gmail-egorka44552014-red.svg?style=flat&logo=gmail)](mailto:kaidux22@gmail.com) [![Follow on Telegram](https://img.shields.io/badge/telegram-%40azazzze1-blue.svg?style=flat&logo=telegram)](https://t.me/kaidux)
+[![Follow on Gmail](https://img.shields.io/badge/gmail-kaidux22-red.svg?style=flat&logo=gmail)](mailto:kaidux22@gmail.com) [![Follow on Telegram](https://img.shields.io/badge/telegram-%40kaidux-blue.svg?style=flat&logo=telegram)](https://t.me/kaidux)
 
 ## О себе: 
 - Бакалавр с отличием по прикладной математике и информатике. 
