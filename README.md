@@ -1,12 +1,17 @@
 ## Прошичев Александр (Intern DS/ML Engineer)
-[![Follow on Gmail](https://img.shields.io/badge/gmail-kaidux22-red.svg?style=flat&logo=gmail)](mailto:kaidux22@gmail.com) [![Follow on Telegram](https://img.shields.io/badge/telegram-%40kaidux-blue.svg?style=flat&logo=telegram)](https://t.me/kaidux)
+[![Gmail](https://img.shields.io/badge/gmail-kaidux22-red.svg?style=flat&logo=gmail)](mailto:kaidux22@gmail.com)
+[![Telegram](https://img.shields.io/badge/telegram-%40kaidux-blue.svg?style=flat&logo=telegram)](https://t.me/kaidux)
 
 ## О себе: 
 - Бакалавр с отличием по прикладной математике и информатике. 
-- Более 4 лет опыта в программировании на Python и более 1 года в областях Machine Learning и Data Science. 
+- Более 6 лет опыта в программировании на Python и более 1 года в областях Machine Learning и Data Science. 
 - Практический опыт разработки ML-моделей в рамках личных и командных проектов с фокусом на задачи NLP и обработки временных рядов. 
-- Автор 2 исследовательских работ. 
+- Автор 2 научно-исследовательских работ. 
 - Победитель международной олимпиады по математическому моделированию (командный зачёт), победитель и призёр региональных олимпиад по математике и программированию.
+
+### Ссылки :
+[![Резюме](https://img.shields.io/badge/📄_Резюме-8A2BE2?style=flat)](https://drive.google.com/.../view?usp=sharing)
+[![Портфолио](https://img.shields.io/badge/🎨_Портфолио-00BFFF?style=flat)](https://kaidux22.github.io/portfolio)
 
 ## Мои проекты
 
