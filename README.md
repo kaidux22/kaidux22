@@ -15,28 +15,24 @@
     <tr>
       <th>Репозиторий</th>
       <th>Описание</th>
-      <th>ЯП</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></a></td>
+      <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong><br><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></a></td>
       <td>No description </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kaidux22/fake-reviews-detector" target="_blank"><strong>fake-reviews-detector</strong></a></td>
+      <td><a href="https://github.com/kaidux22/fake-reviews-detector" target="_blank"><strong>fake-reviews-detector</strong><br><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></a></td>
       <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kaidux22/CompMath-AE" target="_blank"><strong>CompMath-AE</strong></a></td>
+      <td><a href="https://github.com/kaidux22/CompMath-AE" target="_blank"><strong>CompMath-AE</strong><br><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square" alt="C++"/></a></td>
       <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square" alt="C++"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kaidux22/alexbibl" target="_blank"><strong>alexbibl</strong></a></td>
+      <td><a href="https://github.com/kaidux22/alexbibl" target="_blank"><strong>alexbibl</strong><br><img src="https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square" alt="Jupyter Notebook"/></a></td>
       <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square" alt="Jupyter Notebook"/></td>
     </tr>
   </tbody>
 </table>
