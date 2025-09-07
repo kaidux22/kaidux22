@@ -10,39 +10,24 @@
 ### Мои проекты
 
 <!-- SHOWCASE-START -->
-## Мои проекты
+## 🚀 Showcase Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Description</th>
-      <th>Language</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/kaidux22/alexbibl" target="_blank"><strong>alexbibl</strong></a></td>
-      <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square" alt="Jupyter Notebook"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kaidux22/CompMath-AE" target="_blank"><strong>CompMath-AE</strong></a></td>
-      <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square" alt="C++"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kaidux22/fake-reviews-detector" target="_blank"><strong>fake-reviews-detector</strong></a></td>
-      <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong></a></td>
-      <td>No description </td>
-      <td><img src="https://img.shields.io/badge/-Jupyter%20Notebook-blue?style=flat-square" alt="Jupyter Notebook"/></td>
-    </tr>
-  </tbody>
-</table>
+- ### 🧑‍💻 **[alexbibl](https://github.com/kaidux22/alexbibl)**
+   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-blue)
+
+
+- ### 🧑‍💻 **[CompMath-AE](https://github.com/kaidux22/CompMath-AE)**
+   ![C++](https://img.shields.io/badge/-C%2B%2B-blue)
+
+
+- ### 🧑‍💻 **[fake-reviews-detector](https://github.com/kaidux22/fake-reviews-detector)**
+   ![Python](https://img.shields.io/badge/-Python-blue)
+
+
+- ### 🧑‍💻 **[rnn_stress_detection_thesis](https://github.com/kaidux22/rnn_stress_detection_thesis)**
+   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-blue)
+
+
 
 
 ---
