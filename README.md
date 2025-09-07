@@ -10,8 +10,8 @@
 - Победитель международной олимпиады по математическому моделированию (командный зачёт), победитель и призёр региональных олимпиад по математике и программированию.
 
 ### Ссылки :
-[![Резюме](https://img.shields.io/badge/📄_Резюме-8A2BE2?style=flat)](https://drive.google.com/.../view?usp=sharing)
-[![Портфолио](https://img.shields.io/badge/🎨_Портфолио-00BFFF?style=flat)](https://kaidux22.github.io/portfolio)
+[![Резюме](https://img.shields.io/badge/Резюме-8A2BE2?style=flat)](https://career.habr.com/kaidux22)
+[![Портфолио](https://img.shields.io/badge/Портфолио-00BFFF?style=flat)](https://drive.google.com/drive/folders/1kOUbkUkwcGxjnjzHOWvwpAtKTr1b9NpW?usp=sharing)
 
 ## Мои проекты
 
