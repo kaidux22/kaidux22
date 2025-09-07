@@ -22,6 +22,7 @@
     <tr>
       <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong><br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></td>
       <td>No description </td>
+      <td>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/kaidux22/fake-reviews-detector" target="_blank"><strong>fake-reviews-detector</strong><br><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></a></td>
@@ -39,3 +40,5 @@
 </table>
 
 </div>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
