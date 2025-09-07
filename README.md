@@ -10,6 +10,7 @@
 
 ## Мои проекты
 
+<div>
 <table>
   <thead>
     <tr>
@@ -19,7 +20,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong><br><img src="https://img.shields.io/badge/-Python-blue?style=flat-square" alt="Python"/></a></td>
+      <td><a href="https://github.com/kaidux22/rnn_stress_detection_thesis" target="_blank"><strong>rnn_stress_detection_thesis</strong><br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a></td>
       <td>No description </td>
     </tr>
     <tr>
@@ -36,3 +37,5 @@
     </tr>
   </tbody>
 </table>
+
+</div>
