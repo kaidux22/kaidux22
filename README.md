@@ -10,4 +10,30 @@
 ### Мои проекты
 
 <!-- SHOWCASE-START -->
+## 🚀 My Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 4px">
+
+<a href="https://github.com/kaidux22/alexbibl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaidux22&repo=alexbibl&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+<a href="https://github.com/kaidux22/CompMath-AE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaidux22&repo=CompMath-AE&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+<a href="https://github.com/kaidux22/fake-reviews-detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaidux22&repo=fake-reviews-detector&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+<a href="https://github.com/kaidux22/rnn_stress_detection_thesis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaidux22&repo=rnn_stress_detection_thesis&theme=default&show_owner=true&description_lines_count=2&hide=&hide_language=false&show_icons=true&show_stars=false&show_forks=false&show_topics=false" />
+</a>
+
+</div>
+
+
+---
+*Updated on September 7, 2025*
+
 <!-- SHOWCASE-END -->
