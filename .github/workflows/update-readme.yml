@@ -23,8 +23,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: ${{ github.repository_owner }}
           topic: 'showcase'
-          format: 'table'
-          title: 'Мои проекты'
+          format: 'list'
+          title: ''
           max_repos: 4
           show_description: true
           show_language: true
