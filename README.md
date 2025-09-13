@@ -106,6 +106,10 @@
 
 [Ссылка на сертификат](https://...)
 
+- **Алгоритмы и структуры данных** | ВК Education | Сентябрь 2025
+
+[Ссылка на сертификат](https://drive.google.com/file/d/1KPnS59LjV6DLqHDq68Xwk-v-o5HgzWDV/view?usp=drive_link)
+
 - **Интерактивный тренажёр по SQL** | Stepik | Декабрь 2023
 
 [Ссылка на сертификат](https://drive.google.com/file/d/1vNEgDyX94mpRxgntoeHJz-vuJEyYNLFT/view?usp=sharing)
